@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: varunmanik/httpd:blue
         ports:
-        - containerPort: 8080
+        - containerPort: 80
